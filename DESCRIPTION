@@ -1,0 +1,11 @@
+Package: gettablewikki
+Type: Package
+Title: downloads table from any url
+Version: 0.1.0
+Author: MS
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Table from any url will be fetched by this package
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
